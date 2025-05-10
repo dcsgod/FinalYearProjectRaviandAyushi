@@ -1,10 +1,9 @@
 
-```markdown
+
 # Smart Crop Disease Detection and Yield Prediction System 🌾🧠
 
 A full-stack, AI-powered system designed to assist farmers by detecting crop diseases from images, predicting crop yields based on environmental data, and classifying agricultural land using satellite imagery. This project integrates Java frontend, Python-based machine learning models, and geospatial analytics to deliver intelligent agricultural decision support.
 
----
 
 ## 🔍 Features
 
@@ -139,11 +138,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 * Ravi Kumar – Python & ML Developer – `21EAYCS117`
 
 Department of Computer Science & Engineering
-\[Your College Name], \[City, Country]
+\[Arya College of Engineering & Research Center  ], \[Jaipur, Rajasthan]
 
 ```
 
----
-
-Let me know if you'd like this converted into a `README.md` file or published as a GitHub-ready repo setup!
-```
