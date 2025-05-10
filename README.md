@@ -68,7 +68,7 @@ A full-stack, AI-powered system designed to assist farmers by detecting crop dis
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smart-agriculture-system.git
+git clone https://github.com/dcsgod/smart-agriculture-system.git
 cd smart-agriculture-system
 ````
 
